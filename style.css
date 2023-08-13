@@ -123,7 +123,7 @@ aside>div:last-of-type{
     border-radius: 5px 5px 0 0;
 }
 
-.proyecto img:hover{
+.proyecto:hover img{
     filter:grayscale(0);
 }
 
