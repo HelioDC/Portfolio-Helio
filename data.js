@@ -59,7 +59,7 @@ const proyectos = [
 ]
 
 const informacionPersonal = {
-    imagen: "/img/FotoPerfilSinFondo.png",
+    imagen: "img/FotoPerfilSinFondo.png",
     otros:[
         ["Nacionalidad", "Español"],
         [
