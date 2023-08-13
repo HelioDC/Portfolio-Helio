@@ -80,6 +80,7 @@ aside>div:last-of-type{
 .tarjeta{
     background-color: var(--color-fondo-tarjeta);
     border-radius: 5px;
+    transition: 200ms;
     
 }
 
@@ -104,6 +105,7 @@ aside>div:last-of-type{
     -moz-box-shadow: 6px 6px 16px 0px rgba(0,0,0,0.75);
     box-shadow: 6px 6px 16px 0px rgba(0,0,0,0.75);
     border-radius: 5px;
+    overflow: hidden;
 }
 
 .proyecto div{
@@ -117,9 +119,9 @@ aside>div:last-of-type{
 
 .proyecto img{
     height: 150px;
-    size: cover;
+    object-fit: cover;
     filter:grayscale(0.5);
-    transition:300ms;
+    transition:200ms;
     border-radius: 5px 5px 0 0;
 }
 
