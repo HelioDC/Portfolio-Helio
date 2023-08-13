@@ -65,7 +65,7 @@ aside>div:last-of-type{
     color: var(--color-texto-titulos);
 }
 
-aside #foto-personal{
+#foto-personal{
     max-width: 80%;
     border-radius: 100%;
     background-color: var(--color-fondo-tarjeta);
