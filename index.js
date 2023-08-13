@@ -29,7 +29,7 @@ proyectos.forEach(proyecto => {
 const nuevaPresentacion = document.createElement("div");
 nuevaPresentacion.classList = "presentacion";
 nuevaPresentacion.innerHTML = `
-    <img src="${informacionPersonal.imagen}" class="foto-personal">
+    <img src="img/${informacionPersonal.imagen}" class="foto-personal" alt="foto">
 `;
 informacionPersonal.otros.forEach(dato => {
     nuevaPresentacion.innerHTML += `
