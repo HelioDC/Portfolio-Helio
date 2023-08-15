@@ -7,11 +7,11 @@ const proyectos = [
         tecnologías: ["HTML", "CSS"]
     },
     {
-        titulo: "Mi segundo proyecto",
-        descripción: "Este proyecto lo hice para seguir aprendiendo distintas tecnologías web",
-        link: "https://www.google.com",
-        imagen:"",
-        tecnologías: ["Angular", "TS"]
+        titulo: "App perros",
+        descripción: "Aplicación de like/dislike que almacena los elementos seleccionados.",
+        link: "https://heliodc.github.io/CV-likeador-de-perros/",
+        imagen:"app-perros.png",
+        tecnologías: ["Html", "CSS", "JavaScript"]
     },
     {
         titulo: "Mi primer proyecto",
